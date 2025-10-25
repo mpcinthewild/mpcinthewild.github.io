@@ -1,3 +1,15 @@
 title: MPC in the Wild
+description: Small site with Jekyll-enabled Markdown pages
+baseurl: "" # set to "/repo-name" if you serve from a subpath on GitHub Pages
+url: ""
+markdown: kramdown
+permalink: /:title/
+
+# Exclude files/folders from Jekyll processing if needed
+exclude:
+  - node_modules
+  - vendor
+  - index.html
+
 description: Multi-Party Computation Research Project
 theme: null

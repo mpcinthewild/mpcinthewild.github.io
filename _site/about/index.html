@@ -1,0 +1,71 @@
+  <link rel="stylesheet" href="/style.css" />
+  <style>
+      /* minimal nav fallback so the navbar is visible even if the main CSS isn't loaded */
+      header .container { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+
+      /* site title styling when rendered in the header */
+      .site-title { margin: 0; font-size: 1.6rem; line-height: 1; }
+      .site-title a { color: inherit; text-decoration: none; }
+
+      /* nav: keep as a flex row and vertically center its links */
+      .site-nav {
+        display: flex;
+        gap: 1rem;
+        padding: 0;
+        align-items: center; /* vertical center */
+        background: transparent; /* remove grey background */
+        margin: 0;
+      }
+
+      /* link styles: no background, subtle underline on hover */
+      .site-nav a {
+        color: inherit;
+        text-decoration: none;
+        font-weight: 600;
+        padding: 6px 0; /* small vertical padding so underline sits nicely */
+        border-bottom: 2px solid transparent;
+        transition: border-color 160ms ease-in-out, color 160ms ease-in-out;
+      }
+
+      .site-nav a:hover,
+      .site-nav a:focus {
+        border-bottom-color: currentColor;
+        color: #2a2a2a;
+        outline: none;
+      }
+
+      main { padding: 1rem; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div>
+          <h1 class="site-title"><a href="/">MPC in the Wild</a></h1>
+        </div>
+        <nav class="site-nav">
+          <a href="/">Home</a>
+          <a href="/about/">About</a>
+          <a href="/research/">Research</a>
+          <a href="/#contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <h1 id="about-mpc-in-the-wild">About MPC in the Wild</h1>
+
+<p>This is a sample Markdown page rendered through Jekyll. You can add more <code class="language-plaintext highlighter-rouge">.md</code> files at the repo root (or in <code class="language-plaintext highlighter-rouge">docs/</code>) and they will be processed by Jekyll on GitHub Pages.</p>
+
+<p>Images and other assets should be placed in the repository and referenced with absolute or relative paths.</p>
+
+    </main>
+
+    <footer>
+      <div class="container">
+        <p>&copy; 2025 MPC in the Wild</p>
+      </div>
+    </footer>
+  </body>
+  
+</html>
