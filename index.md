@@ -51,8 +51,8 @@ Through TPMPC website
 ### Timeline
 
 
-| Application deadline | tba |
-| Kick-off in Aarhus | |
+| Application deadline | 5 January 2026 (AoE) |
+| Tentative kick-off in Aarhus | 17 May 2026 |
 | Workshop | 18 May 2026 |
 | TPMPC | 19-21 May 2026 |
 | Internship | tba |
@@ -83,7 +83,7 @@ Please apply by email to email .... with subject ... Include the following infor
 - Advisor
 - Other referees (optional): name, email and relationship 
 - What is your relevant experience, related to the [3 research areas above](#target) (and anything else you see as relevant)? *(max 300 words)*
-- What kind of research topics would you want to explore? *(max 300 words)*
+- What kind of research topics would you want to explore? This topic is not binding yet. *(max 300 words)*
 
 The **deadline for applications is ...**.
 
