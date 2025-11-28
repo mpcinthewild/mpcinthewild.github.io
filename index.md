@@ -44,18 +44,23 @@ We solicit contributed talks on ... Submission is shared with TPMPC, and submiss
 Through TPMPC website
 
 
-## Internships
+## Internships {#internships}
 
-...
+We are looking for multiple interns to work with us on the project during **Summer 2026**. Interns are expected to be current or recent PhD students with a relevant background in at least one of the following research areas:
+- *Modeling* of MPC (security) in general, or of real-world aspects of other types of cryptographic protocols
+- *Attacks* on implementations of advanced cryptographic protocols such as MPC, ZK, or related protocols
+- *Implementations* of MPC protocols and related protocols
+
+In rare cases, we may also consider master or bachelor students with relevant expertise.
+
 
 ### Timeline
 
 
 | Application deadline | 5 January 2026 (AoE) |
 | Tentative kick-off in Aarhus | 17 May 2026 |
-| Workshop | 18 May 2026 |
-| TPMPC | 19-21 May 2026 |
-| Internship | tba |
+| Workshop and TPMPC | 18-21 May 2026 |
+| Internship | until around 14 August |
 
 Interns are expected to participate in the full program. If you are interested but feel you cannot commit to the full duration (e.g. for medical reasons, care obligations, ...) please contact us (before application? afterwards?) via ... and we will see if we can find a solution.
 
@@ -64,33 +69,21 @@ Interns are expected to participate in the full program. If you are interested b
 
 The internship will take place in the Cryptography and Security group at Aarhus University, Denmark.  
 
-### Target group {#target}
-
-Current or recent PhD students with a relevant background in at least one of the following research areas:
-- *Modeling* of MPC (security) in general, or of real-world aspects of other types of cryptographic protocols
-- *Attacks* on implementations of advanced cryptographic protocols such as MPC, ZK, or related protocols
-- *Implementations* of MPC protocols and related protocols
-
-In exceptional cases, we may consider master and bachelor students if they have relevant expertise.
-
 ### How to apply
 
-Please apply by email to email .... with subject ... Include the following information about the applicant in the body of the email, and attach a CV:
-- Applicant name 
-- Webpage or Google Scholar (if applicable) 
-- Current education (e.g. MSc CS since 2023, 3rd year PhD since 2024, etc.) 
-- University
-- Advisor
-- Other referees (optional): name, email and relationship 
-- What is your relevant experience, related to the [3 research areas above](#target) (and anything else you see as relevant)? *(max 300 words)*
-- What kind of research topics would you want to explore? This topic is not binding yet. *(max 300 words)*
-
-The **deadline for applications is ...**.
+[Apply for an internship](apply)
 
 ### What we offer
 
 Interns will be working on pre-agreed research projects with Peter Scholl and Sabine Oechsner, and possibly other members of the Cryptography and Security group. We will cover travel costs to and from Aarhus as well as a stipend to cover living expenses in Denmark. If needed, we can also offer support with visas and finding accommodation.
 
+## Research
+
+Some papers:
+- **Rushing at SPDZ: On the Practical Security of Malicious MPC Implementations**.
+*Alexander Kyster, Frederik Huss Nielsen, Sabine Oechsner, and Peter Scholl*. *2025 IEEE Symposium on Security and Privacy (S&P)*
+(eprint)
+- ...
 
 ## Team
 
@@ -100,4 +93,4 @@ MPC in the Wild is run by
 
 ## Support
 
-The project is supported by a Cryptanalysis Grant from Zama.
+The project is supported by a [Cryptanalysis Grant](https://www.zama.org/post/announcing-the-zama-cryptanalysis-grants) from [Zama](https://www.zama.org/).
