@@ -13,7 +13,7 @@ Please apply by email to *mpcinthewild@gmail.com* with subject "MPC in the Wild 
 - **Current education** (e.g. MSc CS since 2023, 3rd year PhD since 2024, etc.)
 - **Affiliation**
 - **Referees**: Name and email of your advisor, and (optional) of up to two other referees (specify their relationship to you). Please do not include any recommendation letters etc. We will reach out to your referees ourselves if needed.
-- What is your **relevant experience**, related to the three research areas (modeling, attacks, implementations)? Please mention also any other experience you deem relevant. *(max 300 words)*
+- What is your **relevant experience**, related to the three [research areas](/#internships) (modeling, attacks, implementations)? Please mention also any other experience you deem relevant. *(max 300 words)*
 - What kind of **research topics** would you want to explore? This topic is not binding yet. *(max 300 words)*
 - **Other remarks**: e.g. constraints on dates you can be in Aarhus
 
