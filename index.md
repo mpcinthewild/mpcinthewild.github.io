@@ -15,7 +15,7 @@ title: MPC in the Wild
 ## About
 
 Secure multi-party computation (MPC) has been studied theoretically for decades now, and we are starting to see deployment. While MPC security guarantees have been
-well-established in theoretical models, the security of actual (open-source) implementations is currently understudied. We believe there is a disconnect between theoretical cryptographers who design MPC protocols on paper, and those who implement them.
+well-established in theoretical models, the security of actual (open-source) implementations is currently understudied. We believe there is a disconnect between the theory of MPC, where protocols are designed and analyzed on paper, and the reality of MPC implementations.
 
 MPC in the Wild is a research project that aims to study the real-world implementation security of MPC protocols, in particular, the gap between assumptions on the theory side and implementation choices made in practice.
 
