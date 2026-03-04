@@ -95,6 +95,12 @@ MPC in the Wild is run by
 - [Sabine Oechsner](https://soechsner.de){:target="_blank"} (VU Amsterdam) and 
 - [Peter Scholl](https://pascholl.github.io){:target="_blank"} (Aarhus University).
 
+Research interns (summer 2026):
+- [Nan Cheng](https://nancheng.me) (University of St. Gallen)
+- [Bhavish Raj Gopal](https://cris.csa.iisc.ac.in/people/Bhavish%20Raj%20Gopal/) (IISc Bangalore)
+- [Miquel Guiot](https://miquelguiot.github.io) (Universitat Rovira i Virgili)
+- [Kaiwen (Kevin) He](https://kevin-he-01.github.io) (MIT)
+
 ## Support
 
 The project is supported by a [Cryptanalysis Grant](https://www.zama.org/post/announcing-the-zama-cryptanalysis-grants) from [Zama](https://www.zama.org/).
