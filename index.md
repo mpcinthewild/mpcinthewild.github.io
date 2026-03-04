@@ -21,23 +21,31 @@ MPC in the Wild is a research project that aims to study the real-world implemen
 
 ## Workshop: MPC Security in Practice {#workshop}
 
-On **18 May, 2026**, we are organising a 1-day workshop on *MPC Security in Practice* as part of TPMPC 2026.
+*MPC Security in Practice* is a 1-day workshop and will take place on **18 May 2026** at Aarhus University, Denmark as part of [TPMPC 2026](https://www.multipartycomputation.com/tpmpc-2026). The workshop will bring together speakers from MPC practice to discuss challenges for the security of MPC, as it is deployed in practice and the impact of these challenges on MPC theory. The program will consist of a mix of contributed and invited talks.
+
+### Confirmed speakers
+- Martin Albrecht
+- Sofía Celi
+- Anders Dalskov
+- Thomas Schneider
+
+### Program
+
+tba
 
 ### Contributed talks
 
-We will solicit contributed talks on topics related to the project. Submissions will be handled as part of the TPMPC submission process, details to be announced.
-
-
-<!--
-### Confirmed speakers
-
-tba
+We will solicit contributed talks on topics related to the project. Submissions will be handled as part of the TPMPC submission process, please refer to  the [TPMPC website](https://www.multipartycomputation.com/tpmpc-2026) for more details. The submission deadline is **2 March 2026** (AoE).
 
 
 ### Registration
 
-Through TPMPC website
--->
+If you wish to join us for the MPC Security in Practice workshop, please register through the [TPMPC website](https://www.multipartycomputation.com/tpmpc-2026).
+
+### Visa and travel
+
+Please refer to the [TPMPC website](https://www.multipartycomputation.com/tpmpc-2026) for information regarding visas and traveling to Aarhus.
+
 
 ## Internships {#internships}
 
