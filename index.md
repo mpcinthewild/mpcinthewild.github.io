@@ -23,15 +23,31 @@ MPC in the Wild is a research project that aims to study the real-world implemen
 
 *MPC Security in Practice* is a 1-day workshop and will take place on **18 May 2026** at Aarhus University, Denmark as part of [TPMPC 2026](https://www.multipartycomputation.com/tpmpc-2026). The workshop will bring together speakers from MPC practice to discuss challenges for the security of MPC, as it is deployed in practice and the impact of these challenges on MPC theory. The program will consist of a mix of contributed and invited talks.
 
-### Confirmed speakers
-- Martin Albrecht
-- Sofía Celi
-- Anders Dalskov
-- Thomas Schneider
+### Invited speakers
+  
+- Martin Albrecht (UCL)
+- Sofía Celi (Brave)
+- Anders Dalskov (Partisia)
+- Marcel Keller (CSIRO's Data61)
+- Joop van de Pol (Trail of Bits)
+- Thomas Schneider (TU Darmstadt)
 
-### Program
+### Tentative program
 
-tba
+**Implementation and deployment**
+- Thomas Schneider (TU Darmstadt)
+- Marcel Keller (CSIRO's Data61)
+- Anders Dalskov (Partisia)
+- Tore Frederiksen (Zama)
+
+**Real-world security beyond MPC**
+- Sofía Celi (Brave)
+- Martin Albrecht (UCL)
+
+**Attacks and real-world security concerns**
+- Andreas Brüggemann (TU Darmstadt)
+- Joop van de Pol (Trail of Bits) 
+
 
 ### Contributed talks
 
