@@ -32,22 +32,9 @@ MPC in the Wild is a research project that aims to study the real-world implemen
 - Joop van de Pol (Trail of Bits)
 - Thomas Schneider (TU Darmstadt)
 
-### Tentative program
+### Program
 
-**Implementation and deployment**
-- Thomas Schneider (TU Darmstadt)
-- Marcel Keller (CSIRO's Data61)
-- Anders Dalskov (Partisia)
-- Tore Frederiksen (Zama)
-
-**Real-world security beyond MPC**
-- Sofía Celi (Brave)
-- Martin Albrecht (UCL)
-
-**Attacks and real-world security concerns**
-- Andreas Brüggemann (TU Darmstadt)
-- Joop van de Pol (Trail of Bits) 
-
+The workshop program can be found on the [TPMPC website](https://www.multipartycomputation.com/tpmpc-2026/2026-program).
 
 ### Contributed talks
 
