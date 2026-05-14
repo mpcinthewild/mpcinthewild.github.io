@@ -25,7 +25,7 @@ MPC in the Wild is a research project that aims to study the real-world implemen
 
 ### Invited speakers
   
-- Martin Albrecht (UCL)
+- Martin Albrecht (KCL)
 - Sofía Celi (Brave)
 - Anders Dalskov (Partisia)
 - Marcel Keller (CSIRO's Data61)
